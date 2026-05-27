@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "774a4027-dc9e-4480-92e7-fa5c59486661",
+  "path": "academic-paper-reviewer",
+  "path_key": "academic-paper-reviewer",
+  "enabled": true,
+  "tags": [
+    "Academical Research",
+    "academic research"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Imbad0202/academic-research-skills",
+    "subpath": "skills/academic-paper-reviewer",
+    "branch": null
+  }
+}

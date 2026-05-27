@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "102d6b87-1786-4469-8cf2-f7054ff16072",
+  "path": "theme-factory",
+  "path_key": "theme-factory",
+  "enabled": true,
+  "tags": [
+    "Anthropic Skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/skills",
+    "subpath": "skills/theme-factory",
+    "branch": null
+  }
+}

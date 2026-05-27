@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "48d63f53-51eb-466a-bf3f-b0b4c460ba9f",
+  "path": "cardputer-buddy",
+  "path_key": "cardputer-buddy",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/cwc-makers/skills/cardputer-buddy",
+    "branch": null
+  }
+}

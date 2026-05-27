@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "8e0bacc5-7510-4524-934f-2507e7de2d37",
+  "path": "access-2",
+  "path_key": "access-2",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "external_plugins/imessage/skills/access",
+    "branch": null
+  }
+}

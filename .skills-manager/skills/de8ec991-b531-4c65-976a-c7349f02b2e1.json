@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "de8ec991-b531-4c65-976a-c7349f02b2e1",
+  "path": "academic-citation-manager",
+  "path_key": "academic-citation-manager",
+  "enabled": true,
+  "tags": [
+    "academic research"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

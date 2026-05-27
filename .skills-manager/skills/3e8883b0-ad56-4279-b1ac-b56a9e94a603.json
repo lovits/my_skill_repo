@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e8883b0-ad56-4279-b1ac-b56a9e94a603",
+  "path": "ckm_banner-design",
+  "path_key": "ckm_banner-design",
+  "enabled": true,
+  "tags": [
+    "UI-UX-PRO-MAX"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "subpath": ".claude/skills/banner-design",
+    "branch": null
+  }
+}

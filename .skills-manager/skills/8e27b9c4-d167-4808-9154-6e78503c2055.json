@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "8e27b9c4-d167-4808-9154-6e78503c2055",
+  "path": "configure-3",
+  "path_key": "configure-3",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "external_plugins/telegram/skills/configure",
+    "branch": null
+  }
+}

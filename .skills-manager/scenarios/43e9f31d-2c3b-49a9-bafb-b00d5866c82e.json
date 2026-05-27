@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "43e9f31d-2c3b-49a9-bafb-b00d5866c82e",
+  "name": "Anthropic Skills",
+  "description": null,
+  "icon": "briefcase",
+  "sort_order": 999
+}

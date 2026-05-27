@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "b6a7c628-2a8a-455e-a90a-d7685759c998",
+  "path": "configure",
+  "path_key": "configure",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "external_plugins/discord/skills/configure",
+    "branch": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "b053733d-e50a-4b18-895d-1ea42889e92f",
+  "path": "de-ai-writing-cn",
+  "path_key": "de-ai-writing-cn",
+  "enabled": true,
+  "tags": [
+    "Must"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

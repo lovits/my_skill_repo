@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "0bf379c1-68f9-4a1b-8c6b-4ff00320421f",
+  "path": "prompt-master",
+  "path_key": "prompt-master",
+  "enabled": true,
+  "tags": [
+    "Must"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/nidhinjs/prompt-master",
+    "subpath": null,
+    "branch": null
+  }
+}

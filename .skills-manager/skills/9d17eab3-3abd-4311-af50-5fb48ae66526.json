@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "9d17eab3-3abd-4311-af50-5fb48ae66526",
+  "path": "configure-2",
+  "path_key": "configure-2",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "external_plugins/imessage/skills/configure",
+    "branch": null
+  }
+}

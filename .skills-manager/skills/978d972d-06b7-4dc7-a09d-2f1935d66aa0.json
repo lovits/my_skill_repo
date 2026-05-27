@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "978d972d-06b7-4dc7-a09d-2f1935d66aa0",
+  "path": "xlsx",
+  "path_key": "xlsx",
+  "enabled": true,
+  "tags": [
+    "Anthropic Skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/skills",
+    "subpath": "skills/xlsx",
+    "branch": null
+  }
+}

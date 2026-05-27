@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "52aea9f3-98af-459a-864d-80229be87a94",
+  "path": "frontend-slides",
+  "path_key": "frontend-slides",
+  "enabled": true,
+  "tags": [
+    "PPT"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/zarazhangrui/frontend-slides",
+    "subpath": null,
+    "branch": null
+  }
+}

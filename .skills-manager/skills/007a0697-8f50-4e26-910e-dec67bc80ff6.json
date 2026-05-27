@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "007a0697-8f50-4e26-910e-dec67bc80ff6",
+  "path": "guizang-ppt-skill",
+  "path_key": "guizang-ppt-skill",
+  "enabled": true,
+  "tags": [
+    "PPT"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/op7418/guizang-ppt-skill",
+    "subpath": null,
+    "branch": null
+  }
+}

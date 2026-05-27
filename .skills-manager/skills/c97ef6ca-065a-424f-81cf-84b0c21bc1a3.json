@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "c97ef6ca-065a-424f-81cf-84b0c21bc1a3",
+  "path": "mineru",
+  "path_key": "mineru",
+  "enabled": true,
+  "tags": [
+    "pdf extractor"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

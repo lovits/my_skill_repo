@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "9198bc5f-7a6c-4fe8-aab8-d15778ba07a7",
+  "path": "math-olympiad",
+  "path_key": "math-olympiad",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/math-olympiad/skills/math-olympiad",
+    "branch": null
+  }
+}

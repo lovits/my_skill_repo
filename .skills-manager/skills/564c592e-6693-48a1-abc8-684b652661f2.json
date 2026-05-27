@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "564c592e-6693-48a1-abc8-684b652661f2",
+  "path": "web-artifacts-builder",
+  "path_key": "web-artifacts-builder",
+  "enabled": true,
+  "tags": [
+    "Anthropic Skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/skills",
+    "subpath": "skills/web-artifacts-builder",
+    "branch": null
+  }
+}

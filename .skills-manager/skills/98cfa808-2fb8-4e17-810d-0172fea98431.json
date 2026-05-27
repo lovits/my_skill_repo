@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "98cfa808-2fb8-4e17-810d-0172fea98431",
+  "path": "mcp-integration",
+  "path_key": "mcp-integration",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/plugin-dev/skills/mcp-integration",
+    "branch": null
+  }
+}

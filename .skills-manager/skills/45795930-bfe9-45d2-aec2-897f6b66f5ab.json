@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "45795930-bfe9-45d2-aec2-897f6b66f5ab",
+  "path": "m5-onboard",
+  "path_key": "m5-onboard",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/cwc-makers/skills/m5-onboard",
+    "branch": null
+  }
+}

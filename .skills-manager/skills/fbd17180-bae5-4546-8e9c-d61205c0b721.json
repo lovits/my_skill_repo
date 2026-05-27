@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "fbd17180-bae5-4546-8e9c-d61205c0b721",
+  "path": "research-paper-writer",
+  "path_key": "research-paper-writer",
+  "enabled": true,
+  "tags": [
+    "academic research"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

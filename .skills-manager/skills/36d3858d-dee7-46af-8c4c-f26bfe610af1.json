@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "36d3858d-dee7-46af-8c4c-f26bfe610af1",
+  "path": "command-development",
+  "path_key": "command-development",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/plugin-dev/skills/command-development",
+    "branch": null
+  }
+}

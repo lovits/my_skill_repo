@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec03c807-a01e-4e27-9cc3-3a9df1399f6f",
+  "path": "hook-development",
+  "path_key": "hook-development",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/plugin-dev/skills/hook-development",
+    "branch": null
+  }
+}

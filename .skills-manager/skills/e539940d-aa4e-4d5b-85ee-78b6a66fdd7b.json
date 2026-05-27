@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "e539940d-aa4e-4d5b-85ee-78b6a66fdd7b",
+  "path": "access-3",
+  "path_key": "access-3",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "external_plugins/telegram/skills/access",
+    "branch": null
+  }
+}

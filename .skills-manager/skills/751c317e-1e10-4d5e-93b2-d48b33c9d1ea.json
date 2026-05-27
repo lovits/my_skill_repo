@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "751c317e-1e10-4d5e-93b2-d48b33c9d1ea",
+  "path": "build-mcp-app",
+  "path_key": "build-mcp-app",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/mcp-server-dev/skills/build-mcp-app",
+    "branch": null
+  }
+}

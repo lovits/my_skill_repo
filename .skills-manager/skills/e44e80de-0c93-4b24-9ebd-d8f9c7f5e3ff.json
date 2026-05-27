@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "e44e80de-0c93-4b24-9ebd-d8f9c7f5e3ff",
+  "path": "skill-development",
+  "path_key": "skill-development",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/plugin-dev/skills/skill-development",
+    "branch": null
+  }
+}

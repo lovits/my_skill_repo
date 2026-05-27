@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "b61d7286-c921-4b6d-a7fe-1eb0966a53bb",
+  "path": "session-report",
+  "path_key": "session-report",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/session-report/skills/session-report",
+    "branch": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "0b22e477-2e56-4245-aa32-02dd6be5d67f",
+  "path": "Self-Improving + Proactive Agent",
+  "path_key": "self-improving + proactive agent",
+  "enabled": true,
+  "tags": [
+    "claw"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "a1ff869e-2c23-45af-8a72-e8ed10cb2b16",
+  "path": "plugin-structure",
+  "path_key": "plugin-structure",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/plugin-dev/skills/plugin-structure",
+    "branch": null
+  }
+}

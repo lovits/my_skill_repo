@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "7585ed94-003d-421c-8ae2-a72da3153421",
+  "path": "academic-pipeline",
+  "path_key": "academic-pipeline",
+  "enabled": true,
+  "tags": [
+    "Academical Research",
+    "academic research"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Imbad0202/academic-research-skills",
+    "subpath": "skills/academic-pipeline",
+    "branch": null
+  }
+}

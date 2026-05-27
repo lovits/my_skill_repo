@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "22c88226-ec48-472e-8e9a-299bd2dfe171",
+  "path": "build-mcpb",
+  "path_key": "build-mcpb",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/mcp-server-dev/skills/build-mcpb",
+    "branch": null
+  }
+}

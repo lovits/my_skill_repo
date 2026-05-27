@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "1325f6de-bd9d-432b-a499-9aeb1bcd9acb",
+  "path": "playground",
+  "path_key": "playground",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/playground/skills/playground",
+    "branch": null
+  }
+}

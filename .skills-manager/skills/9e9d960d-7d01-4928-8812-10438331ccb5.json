@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e9d960d-7d01-4928-8812-10438331ccb5",
+  "path": "perplexity",
+  "path_key": "perplexity",
+  "enabled": true,
+  "tags": [
+    "academic research"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

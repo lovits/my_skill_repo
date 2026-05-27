@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "acef9f9a-fbc2-41a3-a814-a5dfff124c49",
+  "path": "skill-creator",
+  "path_key": "skill-creator",
+  "enabled": true,
+  "tags": [
+    "claude-plugins-official"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/anthropics/claude-plugins-official",
+    "subpath": "plugins/skill-creator/skills/skill-creator",
+    "branch": null
+  }
+}
