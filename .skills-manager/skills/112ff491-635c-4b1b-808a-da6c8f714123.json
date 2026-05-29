@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "112ff491-635c-4b1b-808a-da6c8f714123",
+  "path": "understand-dashboard",
+  "path_key": "understand-dashboard",
+  "enabled": true,
+  "tags": [
+    "Tutuorial"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Lum1104/Understand-Anything",
+    "subpath": "understand-anything-plugin/skills/understand-dashboard",
+    "branch": null
+  }
+}

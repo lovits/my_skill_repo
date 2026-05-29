@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b0cb61c-657a-4edc-b47c-86f22bda9ee7",
+  "path": "understand-diff",
+  "path_key": "understand-diff",
+  "enabled": true,
+  "tags": [
+    "Tutuorial"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Lum1104/Understand-Anything",
+    "subpath": "understand-anything-plugin/skills/understand-diff",
+    "branch": null
+  }
+}

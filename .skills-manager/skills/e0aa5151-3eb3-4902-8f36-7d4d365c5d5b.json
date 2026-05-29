@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0aa5151-3eb3-4902-8f36-7d4d365c5d5b",
+  "path": "understand-explain",
+  "path_key": "understand-explain",
+  "enabled": true,
+  "tags": [
+    "Tutuorial"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Lum1104/Understand-Anything",
+    "subpath": "understand-anything-plugin/skills/understand-explain",
+    "branch": null
+  }
+}

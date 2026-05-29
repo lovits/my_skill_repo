@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "e33e0bb5-3f5c-4b24-9507-c33fff76dc18",
+  "path": "understand-onboard",
+  "path_key": "understand-onboard",
+  "enabled": true,
+  "tags": [
+    "Tutuorial"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Lum1104/Understand-Anything",
+    "subpath": "understand-anything-plugin/skills/understand-onboard",
+    "branch": null
+  }
+}

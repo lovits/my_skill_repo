@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "39d8f1f7-0b67-4f2e-9baa-2be620802e58",
+  "path": "understand-knowledge",
+  "path_key": "understand-knowledge",
+  "enabled": true,
+  "tags": [
+    "Tutuorial"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Lum1104/Understand-Anything",
+    "subpath": "understand-anything-plugin/skills/understand-knowledge",
+    "branch": null
+  }
+}

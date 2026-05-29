@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "4551d6f5-510a-4f69-aa41-a6e445da7298",
+  "path": "understand-chat",
+  "path_key": "understand-chat",
+  "enabled": true,
+  "tags": [
+    "Tutuorial"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Lum1104/Understand-Anything",
+    "subpath": "understand-anything-plugin/skills/understand-chat",
+    "branch": null
+  }
+}

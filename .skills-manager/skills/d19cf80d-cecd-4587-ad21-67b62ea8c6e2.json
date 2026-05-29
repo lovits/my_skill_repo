@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "d19cf80d-cecd-4587-ad21-67b62ea8c6e2",
+  "path": "understand-domain",
+  "path_key": "understand-domain",
+  "enabled": true,
+  "tags": [
+    "Tutuorial"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Lum1104/Understand-Anything",
+    "subpath": "understand-anything-plugin/skills/understand-domain",
+    "branch": null
+  }
+}
